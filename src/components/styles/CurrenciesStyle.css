@@ -1,0 +1,37 @@
+.currencies-container{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+
+
+}
+
+.currency{
+    background-color: white;
+    border-radius: 2rem;
+    padding: 1rem;
+    padding-right: 5rem;
+    display: flex;
+    width: max-content;
+    gap: 1rem;
+    box-shadow: 7px 6px 5px 0px rgba(204,192,192,0.75);
+    -webkit-box-shadow: 7px 6px 5px 0px rgba(204,192,192,0.75);
+    -moz-box-shadow: 7px 6px 5px 0px rgba(204,192,192,0.75);
+    cursor: pointer;
+}
+
+.logo{
+    width: 5rem;
+    height: 5rem;
+    margin: auto;
+
+}
+
+img{
+    width: 100%;
+}
+.info{
+    
+    background-color: white;
+}
+

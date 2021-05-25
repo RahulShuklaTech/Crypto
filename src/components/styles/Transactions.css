@@ -1,0 +1,38 @@
+.buy {
+    border: none;
+    border-radius: 0.5rem;
+    box-shadow: 1px 1px 8px 1px gray;
+    padding: 1rem;
+    border-left: 5px solid green;
+}
+
+.sell {
+    border: none;
+    border-radius: 0.5rem;
+    box-shadow: 1px 1px 8px 1px gray;
+    padding: 1rem;
+    border-left: 5px solid red;
+}
+
+
+.center {
+    display: flex;
+    justify-content: center;
+    border: 2px solid red;
+    background: red;
+}
+
+.one{
+   
+    text-align: center;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+
